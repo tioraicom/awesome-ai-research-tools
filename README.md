@@ -183,6 +183,7 @@ Research where the subject is a company, a category, or a market.
 - **[CB Insights](https://www.cbinsights.com/)** — Private-market intelligence on funding, acquisitions, and emerging technology categories. `Paid` `Web`
 - **[Crayon](https://www.crayon.co/)** — Watches competitor sites and messaging, then packages the changes for sales teams. `Paid` `Web`
 - **[Crunchbase](https://www.crunchbase.com/)** — Company, funding, and investor records, with alerts on the ones you follow. `Freemium` `Web` `API`
+- **[DisconfirmAI](https://disconfirmai.com/en)** — Investment research workspace that gathers disconfirming evidence before you lock in a thesis. `Freemium` `Web`
 - **[Exploding Topics](https://explodingtopics.com/)** — Surfaces search terms growing quickly, before they show up in trend reports. `Freemium` `Web`
 - **[Glimpse](https://meetglimpse.com/)** — Adds absolute search volumes and forecasts on top of Google Trends data. `Freemium` `Web` `Browser Extension`
 - **[GummySearch](https://gummysearch.com/)** — Mines Reddit conversations for the problems and language a market actually uses. `Freemium` `Web`
