@@ -85,6 +85,7 @@ The scholarly indexes underneath most of the AI research tools listed here.
 - **[CORE](https://core.ac.uk/)** — Aggregates open access papers from repositories worldwide and exposes the full text. `Free` `Web` `API`
 - **[Europe PMC](https://europepmc.org/)** — Life sciences literature search covering abstracts, full text, preprints, and grants. `Free` `Web` `API`
 - **[Google Scholar](https://scholar.google.com/)** — The broadest scholarly index, with citation counts and links to available copies. `Free` `Web`
+- **[JournalCompass](https://journalcompass.com/)** — Free bilingual search across 43,499 journals, with CAS tiers, impact factors, review times and APCs, plus an AI matcher that recommends suitable journals from an abstract. `Free` `Web`- 
 - **[Lens.org](https://www.lens.org/)** — Links scholarly literature to patent records, which few other indexes attempt. `Freemium` `Web` `API`
 - **[OpenAlex](https://openalex.org/)** — Open catalogue of works, authors, and institutions, free to query at full scale. `Free` `Web` `API`
 - **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)** — The reference index for biomedical literature, run by the US National Library of Medicine. `Free` `Web` `API`
